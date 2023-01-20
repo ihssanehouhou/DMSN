@@ -1,1 +1,1 @@
-Here you have your groundtruth images
+Here you have your groundtruth images (for test)
