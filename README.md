@@ -14,3 +14,9 @@ This work was implemented with the following frameworks:
 - Keras 2.3
 - Tensorflow-gpu 2.1
 - Cuda 10.1
+
+#Contact
+Houhou Ihssane
+
+ihssane.houhou@univ-biskra.dz
+ihssanehouhou@gmail.com
