@@ -10,7 +10,7 @@ https://link.springer.com/article/10.1007/s13735-022-00232-x
 # Requirements
 This work was implemented with the following frameworks:
 
-Spyder 3.2.x (recommended)
-Python 3.6.3
-Keras 2.0.6
-Tensorflow-gpu 1.1.0
+- Python 3.6
+- Keras 2.3
+- Tensorflow-gpu 2.1
+- Cuda 10.1
