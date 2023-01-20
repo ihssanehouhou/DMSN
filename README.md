@@ -15,8 +15,9 @@ This work was implemented with the following frameworks:
 - Tensorflow-gpu 2.1
 - Cuda 10.1
 
-#Contact
+# Contact
+
 Houhou Ihssane
 
-ihssane.houhou@univ-biskra.dz
-ihssanehouhou@gmail.com
+- ihssane.houhou@univ-biskra.dz
+- ihssanehouhou@gmail.com
