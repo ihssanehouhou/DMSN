@@ -1,1 +1,1 @@
-Here you have your RGB images
+Here you have your RGB images (for test)
