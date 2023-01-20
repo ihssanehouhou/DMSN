@@ -1,1 +1,1 @@
-Here are the training scripts
+Here where the training scripts should be.
